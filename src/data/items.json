@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "nke",
+    "price": 10.99,
+    "imgUrl": "/img/prod1.png"
+  },
+  {
+    "id": 2,
+    "name": "nikex",
+    "price": 15.99,
+    "imgUrl": "/img/prod2.png"
+  },
+  {
+    "id": 3,
+    "name": "nikeQ",
+    "price": 16.99,
+    "imgUrl": "/img/prod3.png"
+  },
+  {
+    "id": 4,
+    "name": "adidas",
+    "price": 30.99,
+    "imgUrl": "/img/prod4.png"
+  },
+  {
+    "id": 5,
+    "name": "nikeM",
+    "price": 16.99,
+    "imgUrl": "/img/prod5.png"
+  },
+  {
+    "id": 6,
+    "name": "adidasW",
+    "price": 30.99,
+    "imgUrl": "/img/prod6.png"
+  },
+  {
+    "id": 7,
+    "name": "Jordans",
+    "price": 30.99,
+    "imgUrl": "/img/prod7.png"
+  },
+  {
+    "id": 8,
+    "name": "AirMan",
+    "price": 116.99,
+    "imgUrl": "/img/prod8.png"
+  },
+  {
+    "id": 9,
+    "name": "ShirtX",
+    "price": 230.99,
+    "imgUrl": "/img/prod9.png"
+  },
+  {
+    "id": 10,
+    "name": "Johnx",
+    "price": 310.99,
+    "imgUrl": "/img/prod10.png"
+  }
+]
